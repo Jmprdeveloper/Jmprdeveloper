@@ -6,17 +6,18 @@ Técnico Superior en ASIR | Sistemas, redes y soporte | Desarrollo de software (
 https://play.google.com/store/apps/details?id=com.juanma.planificador&hl=es
 
 ### Capturas (Decompras)
-<p>
-  <img src="https://raw.githubusercontent.com/Jmprdeveloper/Jmprdeveloper/main/Screenshot_20251229_131148.png" width="220" />
-  <img src="https://raw.githubusercontent.com/Jmprdeveloper/Jmprdeveloper/main/Screenshot_20251229_131251.png" width="220" />
-  <img src="https://raw.githubusercontent.com/Jmprdeveloper/Jmprdeveloper/main/Screenshot_20251229_131314.png" width="220" />
-  <img src="https://raw.githubusercontent.com/Jmprdeveloper/Jmprdeveloper/main/Screenshot_20251229_131349.png" width="220" />
-</p>
-<p>
-  <img src="https://raw.githubusercontent.com/Jmprdeveloper/Jmprdeveloper/main/Screenshot_20251229_131554.png" width="220" />
-  <img src="https://raw.githubusercontent.com/Jmprdeveloper/Jmprdeveloper/main/Screenshot_20251229_132237.png" width="220" />
-  <img src="https://raw.githubusercontent.com/Jmprdeveloper/Jmprdeveloper/main/Screenshot_20251229_132317.png" width="220" />
-</p>
+### Capturas (Decompras)
+
+<div style="display:flex; gap:10px; overflow-x:auto; padding:8px 0;">
+  <img src="https://raw.githubusercontent.com/Jmprdeveloper/Jmprdeveloper/main/Screenshot_20251229_131148.png" height="380" />
+  <img src="https://raw.githubusercontent.com/Jmprdeveloper/Jmprdeveloper/main/Screenshot_20251229_131251.png" height="380" />
+  <img src="https://raw.githubusercontent.com/Jmprdeveloper/Jmprdeveloper/main/Screenshot_20251229_131314.png" height="380" />
+  <img src="https://raw.githubusercontent.com/Jmprdeveloper/Jmprdeveloper/main/Screenshot_20251229_131349.png" height="380" />
+  <img src="https://raw.githubusercontent.com/Jmprdeveloper/Jmprdeveloper/main/Screenshot_20251229_131554.png" height="380" />
+  <img src="https://raw.githubusercontent.com/Jmprdeveloper/Jmprdeveloper/main/Screenshot_20251229_132237.png" height="380" />
+  <img src="https://raw.githubusercontent.com/Jmprdeveloper/Jmprdeveloper/main/Screenshot_20251229_132317.png" height="380" />
+</div>
+
 
 ## Perfil profesional
 Experiencia en gestión integral de entornos TI en consultoría: administración de **Windows Server** y **Linux**, redes (**TCP/IP, DNS, DHCP, VPN, firewall**), soporte a usuarios, mantenimiento, copias de seguridad y coordinación con proveedores.  
