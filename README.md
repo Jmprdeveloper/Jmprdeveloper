@@ -6,7 +6,7 @@ Técnico Superior en ASIR | Sistemas, redes y soporte | Desarrollo de software (
 https://play.google.com/store/apps/details?id=com.juanma.planificador&hl=es
 
 ### Capturas (Decompras)
-### Capturas (Decompras)
+
 
 <div style="display:flex; gap:10px; overflow-x:auto; padding:8px 0;">
   <img src="https://raw.githubusercontent.com/Jmprdeveloper/Jmprdeveloper/main/Screenshot_20251229_131148.png" height="380" />
