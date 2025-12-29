@@ -7,10 +7,13 @@ https://play.google.com/store/apps/details?id=com.juanma.planificador&hl=es
 
 ### Capturas (Decompras)
 <p>
-  <img src="assets/decompras-1.png" width="220" />
-  <img src="assets/decompras-2.png" width="220" />
-  <img src="assets/decompras-3.png" width="220" />
-  <img src="assets/decompras-4.png" width="220" />
+  <img src="assets/Screenshot_20251229_131148.png" width="220" />
+  <img src="assets/Screenshot_20251229_131251.png" width="220" />
+  <img src="assets/Screenshot_20251229_131314.png" width="220" />
+  <img src="assets/Screenshot_20251229_131349.png" width="220" />
+  <img src="assets/Screenshot_20251229_131554.png" width="220" />
+  <img src="assets/Screenshot_20251229_132237.png" width="220" />
+  <img src="assets/Screenshot_20251229_132317.png" width="220" />
 </p>
 
 
